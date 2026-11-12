@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Oleh Rudyk</h1>
 
-<!--
-**SteamRudKing/SteamRudKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python Backend student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Mykolaiv, Ukraine<br>
+🎓 Python course at Beetroot Academy<br>
+💻 Python Backend
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/SteamRudKing">
+    <img src="https://img.shields.io/badge/Telegram-@SteamRudking-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm learning Python development.
+
+I enjoy turning messy data into clear answers and repetitive tasks into scripts.
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+
+## 📫 Contact
+
+Open to internships and junior positions — write me on or Telegram.
